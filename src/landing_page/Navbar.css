@@ -1,0 +1,24 @@
+.nav-background {
+    background-color: white !important;
+}
+
+.logo-img{
+    width: 25%;
+}
+.nav-link {
+    margin-left: 40px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .nav-anchor {
+        width: 70%;
+    }
+    .logo-img{
+        width: 45%;
+    }
+    .nav-link {
+        margin-left: 5px;
+    }
+    
+}
