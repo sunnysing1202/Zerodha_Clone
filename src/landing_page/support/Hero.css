@@ -4,6 +4,7 @@
     margin: 0 100px;
 }
 
+
 #supportHero {
     background-color: #387ed1;
     color:white;
@@ -17,5 +18,17 @@
     font-size: 20px;
     border-radius: 10px;
     border: none;
+}
+
+@media only screen and (max-width:666px) {
+    #supportWrapper {
+        margin: 0 0;
+    }
+    #supportHero input {
+    padding: 9px 11px;
+    font-size: 15px;
+    
+    }
+    
 }
 

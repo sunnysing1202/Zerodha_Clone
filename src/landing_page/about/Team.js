@@ -3,14 +3,14 @@ import React from "react";
 function Team() {
   return (
     <div className="container">
-      <div className="row p-5 mt-5 ">
+      <div className="row p-md-5  mt-md-5 ">
         <h1 className=" text-center mt-5">People</h1>
       </div>
       <div
-        className="row p-5  text-muted"
+        className="row p-md-5  text-muted"
         style={{ lineHeight: "1.8", fontSize: "1.2em" }}
       >
-        <div className="col-lg-6 col-sm-12 p-5 text-center">
+        <div className="col-lg-6 col-sm-12 p-md-5 mt-3 text-center">
           <img
             src="media/images/nithinKamath.jpg"
             style={{ borderRadius: "100%", width: "50%" }}
@@ -18,7 +18,7 @@ function Team() {
           <h4 className="mt-6">Nithin Kamath</h4>
           <h5>Founder, CEO</h5>
         </div>
-        <div className="col-lg-6 col-sm-12 p-5">
+        <div className="col-lg-6 col-sm-12 p-md-5">
           <p>
           Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.
           </p>
