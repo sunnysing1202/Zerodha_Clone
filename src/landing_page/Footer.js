@@ -12,43 +12,43 @@ function Footer() {
         </div>
         <div className="col-lg-3 col-sm-12">
           <p>Comapany</p>
-          <a href="" className="f-anchor">About</a>
+          <a href="#" className="f-anchor">About</a>
           <br />
-          <a href="" className="f-anchor">Products</a>
+          <a href="#" className="f-anchor">Products</a>
           <br />
-          <a href="" className="f-anchor">Pricing</a>
+          <a href="#" className="f-anchor">Pricing</a>
           <br />
-          <a href="" className="f-anchor">Referral programme</a>
+          <a href="#" className="f-anchor">Referral programme</a>
           <br />
-          <a href="" className="f-anchor">Careers</a>
+          <a href="#" className="f-anchor">Careers</a>
           <br />
-          <a href="" className="f-anchor">Zerodha.tech</a>
+          <a href="#" className="f-anchor">Zerodha.tech</a>
           <br />
-          <a href="" className="f-anchor">Press & media</a>
+          <a href="#" className="f-anchor">Press & media</a>
           <br />
-          <a href="" className="f-anchor ">Zerodha Cares (CSR)</a>
+          <a href="#" className="f-anchor ">Zerodha Cares (CSR)</a>
           <br />
         </div>
         <div className="col-lg-3 col-sm-12 mt-5">
           <p>Support</p>
          
-          <a href="" className="f-anchor">Contact us</a>
+          <a href="#" className="f-anchor">Contact us</a>
           <br />
-          <a href="" className="f-anchor">Support portal</a>
+          <a href="#" className="f-anchor">Support portal</a>
           <br />
-          <a href="" className="f-anchor">Z-Connect blog</a>
+          <a href="#" className="f-anchor">Z-Connect blog</a>
           <br />
-          <a href="" className="f-anchor">List of charges</a>
+          <a href="#" className="f-anchor">List of charges</a>
           <br />
-          <a href="" className="f-anchor">Downloads & resources</a>
+          <a href="#" className="f-anchor">Downloads & resources</a>
           <br />
-          <a href="" className="f-anchor">Videos</a>
+          <a href="#" className="f-anchor">Videos</a>
           <br />
-          <a href="" className="f-anchor">Market overview</a>
+          <a href="#" className="f-anchor">Market overview</a>
           <br />
-          <a href="" className="f-anchor">How to file a complaint?</a>
+          <a href="#" className="f-anchor">How to file a complaint?</a>
           <br />
-          <a href="" className="f-anchor">Status of your complaints</a>
+          <a href="#" className="f-anchor">Status of your complaints</a>
           <br />
         </div>
         <div className="col-lg-3 col-sm-12 mt-5">

@@ -32,8 +32,8 @@ function Stats() {
         <div className="col-lg-6 col-sm-12 p-3 p-md-5">
           <img src="media/images/ecosystem.png" className="stats-img" />
           <div className="text-center">
-            <a href="" className="mx-5" style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <a href=""  style={{textDecoration:"none"}}>Try kite demo <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <a href="#" className="mx-5" style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <a href="#"  style={{textDecoration:"none"}}>Try kite demo <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
           </div>
         </div>
       </div>
